@@ -1,5 +1,7 @@
 function makeInt(string) {
-  parseInt('7.10', 10)
+  parseInt('7', 10)
 }
 
-function preserveDecimal(string)
+function preserveDecimal(string) {
+  
+}
