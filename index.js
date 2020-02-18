@@ -1,6 +1,5 @@
 function add(x, y) {
-  let add = x + y;
-  console.log(add(x, y))
+  return a + b;
 }
 
 function subtract(x, y) {
