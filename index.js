@@ -1,9 +1,9 @@
 function add(x, y) {
-  return a + b;
+  return a+b;
 }
 
 function subtract(x, y) {
-  return x - y;
+  return x-y;
 }
 
 function multiply(x, y) {
@@ -11,5 +11,5 @@ function multiply(x, y) {
 }
 
 function divide(x, y) {
-  return x/y
+  return x/y;
 }
