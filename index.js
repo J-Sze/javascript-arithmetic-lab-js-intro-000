@@ -8,4 +8,5 @@ function preserveDecimal(string) {
   return preserveDecimal(string);
 }
 
-makeInt(string)
+makeInt(string);
+preserveDecimal(string);
