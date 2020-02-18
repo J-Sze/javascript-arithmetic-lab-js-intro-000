@@ -1,12 +1,4 @@
-function makeInt(string) {
-  parseInt('7', 10);
-  return makeInt(string);
-}
-
-function preserveDecimal(string) {
-  parseFloat('9.183');
-  return preserveDecimal(string);
-}
-
-makeInt(string);
-preserveDecimal(string);
+add(1 +80)
+subtract(60 - 40)
+multiply(2 * 3.4)
+divide(5/2.5)
