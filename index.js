@@ -19,5 +19,5 @@ function increment(n) {
 }
 
 function decrement(n) {
-  n==;
+  n--;
 }
